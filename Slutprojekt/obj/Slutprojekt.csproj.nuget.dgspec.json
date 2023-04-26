@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj": {}
+    "C:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj": {
+    "C:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
+        "projectUniqueName": "C:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
         "projectName": "Slutprojekt",
-        "projectPath": "c:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
+        "projectPath": "C:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
         "packagesPath": "C:\\Users\\daniel.taherkhanian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\obj\\",
+        "outputPath": "C:\\Users\\daniel.taherkhanian\\Documents\\C# Slutprojekt\\Slutprojekt\\Slutprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

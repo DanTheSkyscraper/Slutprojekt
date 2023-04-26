@@ -1,0 +1,15 @@
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.exe
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.deps.json
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.runtimeconfig.json
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.dll
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.pdb
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.AssemblyReference.cache
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfoInputs.cache
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfo.cs
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.dll
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\refint\Slutprojekt.dll
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.pdb
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.genruntimeconfig.cache
+C:\Users\daniel.taherkhanian\Documents\C# Slutprojekt\Slutprojekt\Slutprojekt\obj\Debug\net6.0\ref\Slutprojekt.dll
