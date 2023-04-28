@@ -1,6 +1,6 @@
 using System;
 
-public class GameDamage
+public class GameDamage //Class is visible in 4 different ways: Public, Private, Internal and Protected. Public is used here, and it allows us to access class via the objects we create of that class.
 {
     public static int playerWeaponMinDamage = 1;
     public static int playerWeaponMaxDamage = 16;
