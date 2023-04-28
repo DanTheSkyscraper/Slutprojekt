@@ -40,7 +40,8 @@ while (restartGame == "y") //This while-loop will make it so that the player can
             
             for(int i = 0; i < 4; i++) //This for-loop will run 4 times. This means that everything in this for-loop will run 4 times.
             {
-                //This string-array randomizes the name of the enemy, with 5 possible names being chosen. 'enemyNames.Length' is used instead of '(0, 5)' since it always has the same size as the array. 
+                //This string-array randomizes the name of the enemy, with 5 possible names being chosen. 'enemyNames.Length' is used instead of '(0, 5)' since it is always has the same size as the array.
+                //This is used in order to, for example, have a bigger variety of names instead of one single name in 'enemyName'.
                 string[] enemyNames = {"Slime", "Goblin", "Wolf", "Zombie", "Skeleton"};
                 string enemyName = enemyNames[generator.Next(enemyNames.Length)];
                 Console.WriteLine();
